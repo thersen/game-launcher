@@ -9,6 +9,9 @@ Modern, hafif ve tamamen özelleştirilebilir masaüstü oyun kütüphanesi yön
 * **🎨 Dinamik Temalar:** Zevkinize göre seçebileceğiniz renk paletleri ve oyun kartlarının üzerine geldiğinizde değişen dinamik arka planlar.
 * **📊 İstatistik & Analiz:** Hangi oyunu ne kadar oynadığınızı gösteren şık grafikler ve özet istatistik ekranı.
 * **🖥️ Yenilenmiş Detay Penceresi: Oyun kartlarına tıkladığınızda açılan bilgi penceresi sayesinde oynama süreniz ve son oynanma tarihiniz tamamen otomatik olarak güncelleniyor.
+* **🔄 TV Modu:** Gamepad ile rahatça gezinip oyun oynayın.
+* **🔄 Mini Mod:** Ekranın üstüne taşınan mini mod seçeneği sayesinde yer kaplamayan tasarım.
+* **🔄 Discord Durumu:** Discord'da oynadığınız oyunları görün.
 * **🔄 Otomatik Güncelleme:** GitHub Releases üzerinden çalışan entegre `electron-updater` sistemi ile her zaman en güncel sürümü kullanın.
 * **🔒 Güvenli Mimari:** Modern Electron standartlarına uygun (Context Isolation & Preload köprüsü) güvenli altyapı.
 ## 🛠️ Kullanılan Teknolojiler
